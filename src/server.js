@@ -9,7 +9,6 @@ const init = async () => {
         cors: {
             origin: ['*'],
         },
-        security: false,
     },
   });
 
